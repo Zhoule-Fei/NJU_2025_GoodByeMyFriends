@@ -1,1 +1,1 @@
-# NJU_2025_GoodByeMyFriends
+# nju_2025_goodbymyfriends
